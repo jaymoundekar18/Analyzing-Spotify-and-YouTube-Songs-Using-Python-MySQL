@@ -5,6 +5,7 @@ This project aims to provide a practical learning experience in the analysis of 
 The project is structured into two modules:
 
 Module 1: Data Pre-processing with Python
+
 Module 2: Data Analysis using SQL
 
 These modules collectively provide a comprehensive understanding of how to efficiently manage and extract insights from a database, making it a valuable learning opportunity.
